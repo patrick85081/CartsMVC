@@ -44,7 +44,7 @@ namespace CartsMVC.Migrations
                     Price = 27900,
                     Name = "ASUS BX310UA-0611A7200U",
                     DefaultImageURL = "https://a.ecimg.tw/items/DHAFFQA9008K07F/000001_1522202553.jpg",
-                    Description = "�D�B�z���GIntel Core i5-7200U , 2.5GHz<br />�D�O����G8GB DDR4 2400<br />�D�w�СG512G SSD<br />�DLCD�ؤo�G13.3\" FHD �������t���e�ù� (LED)<br />�D���о��G�L<br />�D��L�GUSB3.1*1�BUSB 3.0*1<br />�D���q�G1.45 KG (with 3 cell battery)<br />�D�@�~�t�ΡGWindows 10 Pro 64 bit<br />�D�O�T�G3�~��ګO�T/LCD 1�Ӥ�L�G�I�O�T/�x�W�a�Ϩ쩲���e ",
+                    Description = "● 處理器：Intel Core i5-7200U , 2.5GHz <br />● 記憶體：8GB DDR4 2400<br />● 硬碟：512G SSD <br />● LCD尺寸：13.3\" FHD 霧面防眩光寬螢幕(LED) < br />● 光碟機：無<br />● 其他：USB3.1*1、USB 3.0*1 <br />● 重量：1.45 KG (with 3 cell battery) <br />● 作業系統：Windows 10 Pro 64 bit <br />● 保固：3年國際保固/LCD 1個月無亮點保固/台灣地區到府收送",
                     PublishDate = DateTime.Now,
                     CategoryId = 0,
                     Quantity = 10
@@ -52,9 +52,9 @@ namespace CartsMVC.Migrations
                 new Product()
                 {
                     Price = 14900,
-                    Name = "Apple iPad 32G LTE �� (MP1L2TA/A)",
+                    Name = "Apple iPad 32G LTE 銀 (MP1L2TA/A)",
                     DefaultImageURL = "https://a.ecimg.tw/items/DYAM9BA90084FIO/000001_1524103328.jpg",
-                    Description = "�D9.7 �T Retina ��ܾ�<br />�D64 �줸�[�c�� A9 ����<br />�DM9 ��P�B�z<br />�D800 �U����������Y<br />�D���F10�p�ɹq���ϥήɶ� ",
+                    Description = "● 9.7 吋 Retina 顯示器 <br />● 64 位元架構的 A9 晶片 <br />● M9 協同處理<br />● 800 萬像素攝錄鏡頭 <br />● 長達10小時電池使用時間 ",
                     PublishDate = DateTime.Now,
                     CategoryId = 0,
                     Quantity = 20
@@ -62,9 +62,9 @@ namespace CartsMVC.Migrations
                 new Product()
                 {
                     Price = 9999,
-                    Name = "�p�� Note 2",
+                    Name = "小米 Note 2",
                     DefaultImageURL = "https://a.ecimg.tw/items/DYAN1BA9008TYUL/000001_1522766169.jpg",
-                    Description = "�D5.7�T�X�ʦ����ù� <br />�DŻ�s821�ʯ઩���q�Xĥ�B�z�� <br />�D6GB�O���� + 128GB�x�s�Ŷ� <br />�D2256�U�����W�������۾� <br />�D4070mAh�j�q�q�W����� ",
+                    Description = "● 5.7吋柔性曲面螢幕<br />● 驍龍821性能版高通旗艦處理器 <br />● 6GB記憶體 + 128GB儲存空間 <br />● 2256萬像素超高像素相機 <br />● 4070mAh大電量超長續航",
                     PublishDate = DateTime.Now,
                     CategoryId = 0,
                     Quantity = 0
